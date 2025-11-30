@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jwitzz.github.io/weatherApp",
+  "homepage": "https://jwitzz.github.io/weatherApp/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
